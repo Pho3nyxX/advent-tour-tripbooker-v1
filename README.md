@@ -1,4 +1,4 @@
-# Adventure Tour Trip Booker - version 1
+# Adventure Tour Management System - version 1
 
 An information system that handle the booking of the tours.
 
